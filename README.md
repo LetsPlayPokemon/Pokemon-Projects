@@ -12,8 +12,8 @@ New In-Game Trades\
 Alternate Evolution Options\
 Better Rivals\
 New Starters\
-More Move Deleters
-Running Indoors
+More Move Deleters\
+Running Indoors\
 Better Team Aqua & Team Magma
 
 How to Install and Play:
