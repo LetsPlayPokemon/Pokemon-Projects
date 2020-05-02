@@ -12,7 +12,7 @@ New In-Game Trades\
 Alternate Evolution Options\
 Better Rivals\
 New Starters\
-Better Team Aqua & Team Magma\
+Better Team Aqua & Team Magma
 
 How to Install and Play:
 1. Download BOTH files listed to your desktop.
