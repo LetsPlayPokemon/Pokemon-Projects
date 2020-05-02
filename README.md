@@ -19,10 +19,10 @@ How to Install and Play:
 2. Open the GBA file using VisualBoyAdvance.
 3. If your screen shows white follow the steps bellow.
 
-Fixing White Screen:
-Options Tab -> Emulator -> Save Type -> Flash 128K
-Then
-File Tab -> Reset
+Fixing White Screen:\
+Options Tab -> Emulator -> Save Type -> Flash 128K\
+Then\
+File Tab -> Reset\
 After these steps the game should restart and play.
 
 Updating your ROM:
